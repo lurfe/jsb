@@ -1,0 +1,59 @@
+#home {
+    background-image: url(https://cdn.prod.website-files.com/669a9544665c73db884f2f1c/66c8ba28f7d769335caf9ab5_how-to-start-a-cat-cafe.webp) ;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(https://cdn.prod.website-files.com/669a9544665c73db884f2f1c/66c8ba28f7d769335caf9ab5_how-to-start-a-cat-cafe.webp);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:local;
+
+}
+
+
+.header-content {
+    padding: 10% 0%;
+    color: white;
+}
+
+.title {
+    font-weight: 750;
+}
+
+.content {
+    font-weight: 600;
+    font-size: 1.3rem;
+}
+
+.card-img-top {
+    max-height: 20vw;
+    height: 100%;
+    width: 100%;
+}
+
+.about-content {
+    text-align: justify;
+}
+
+.about-title {
+    text-align: left;
+}
+
+.about-container {
+    padding: 20% 0%;
+    font-size: 1.2rem;
+    
+}
+
+#about-img {
+    padding: 20% 0%;
+}
+
+.nav-item:hover {
+    opacity: 90%;
+}
+
+.nav-link {
+    color: black ;
+}
+
+.nav-item {
+    font-size: 1.2rem;
+}

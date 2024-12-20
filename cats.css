@@ -1,0 +1,30 @@
+.description {
+    font-size: 1.3rem;
+    overflow-wrap:break-word;
+}
+
+.content {
+    padding: 0% 11%;
+
+}
+
+
+
+
+.listing {
+    display: flexbox;
+}
+
+.meeting-img {
+    padding: 0% 10%;
+}
+
+.p-2 img {
+    min-height: 100px;
+    min-width: 100px;
+}
+
+.p1  img{
+    min-height: 140px;
+    min-width: 140px;
+}

@@ -1,0 +1,17 @@
+.infoimg {
+    max-height: 27vw;
+}
+
+p.info-desc-1 {
+    padding-left: 0% 0% 0% 5%;
+}
+
+img.infoimg {
+   min-height: 190px; 
+   min-width: 190px;
+}
+
+.info-content {
+    font-size: 1.3rem;
+    line-height: 2rem;
+}

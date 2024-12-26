@@ -21,3 +21,7 @@ img.infoimg {
     color: black ;
     opacity: 90%;
 }
+
+.dropdown-item {
+    font-size: 1.1rem;
+}

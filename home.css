@@ -46,12 +46,9 @@
     padding: 20% 0%;
 }
 
-.nav-item:hover {
-    opacity: 90%;
-}
-
-.nav-link {
+.nav-link:not(dropdownmenu):hover {
     color: black ;
+    opacity: 90%;
 }
 
 .nav-item {

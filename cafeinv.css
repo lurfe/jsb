@@ -17,9 +17,20 @@ img.infoimg {
 }
 
 
-.nav-link:not(dropdownmenu):hover {
-    color: black ;
-    opacity: 90%;
+.nav-link {
+    color: #000000;
+}
+
+.nav-link:hover:not(dropdownmenu) {
+    opacity: 95%;
+}
+
+.dropdown-item:hover {
+    opacity: 95%;
+}
+
+.nav-item {
+    font-size: 1.2rem;
 }
 
 .dropdown-item {

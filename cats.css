@@ -28,3 +28,8 @@
     min-height: 140px;
     min-width: 140px;
 }
+
+.nav-link:not(dropdownmenu):hover {
+    color: black ;
+    opacity: 90%;
+}

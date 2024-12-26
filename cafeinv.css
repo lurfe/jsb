@@ -15,3 +15,9 @@ img.infoimg {
     font-size: 1.3rem;
     line-height: 2rem;
 }
+
+
+.nav-link:not(dropdownmenu):hover {
+    color: black ;
+    opacity: 90%;
+}

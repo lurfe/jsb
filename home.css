@@ -47,6 +47,7 @@
 
 .nav-link {
     color: #000000;
+    text-align: right;
 }
 
 .nav-link:hover:not(dropdownmenu) {
@@ -64,4 +65,20 @@
 .dropdown-item {
     font-size: 1.1rem;
 }
+
+.info-btn {
+    background-color: #ffae00;
+    border-color: #ffae00;
+}
+
+.info-btn:hover {
+    opacity: 95%;
+    background-color: #ffc000;
+    border-color: #ffc000;
+}
+
+.lead {
+    font-size: 1.7rem;
+}
+
 

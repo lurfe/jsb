@@ -31,8 +31,14 @@ img.infoimg {
 
 .nav-item {
     font-size: 1.2rem;
+    text-align: right;
+}
+
+.btn {
+    text-align: right;
 }
 
 .dropdown-item {
     font-size: 1.1rem;
 }
+

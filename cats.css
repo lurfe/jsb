@@ -40,8 +40,14 @@
 
 .nav-item {
     font-size: 1.2rem;
+    text-align: right;
+    align-items: flex-end;
 }
 
 .dropdown-item {
     font-size: 1.1rem;
+}
+
+.btn {
+    text-align: right;
 }
